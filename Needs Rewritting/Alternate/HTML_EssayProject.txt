@@ -1,0 +1,48 @@
+HTML Progression: Essay Project
+•	Purpose: text is most difficult to consume, comprehend
+Use webpage structure to create memories of essay planning (very similar to webpage planning)
+Various types of readable text depending on our expectations of “summary” or “narrative” (story, lots of ideas all at once)
+•	br & ! used together to format unique internal comments
+geometrical shape of text
+•	Headings
+Show default formatting of h1 – h6, then h7, h8, etc.
+•	Lists (ordered and unordered)
+Outline to Paragraph: use 20 Questions to create teaching doc
+Unordered Lists: brainstorming, creating paragraphs, summarizing paragraphs
+Ordered Lists: adds sequencing logic to lists (#1, #2, #3, etc.)
+•	Paragraphs
+•	Images & Videos (manage inspiration and ideas copied from others
+Remember to reference with Accessed [Date]
+Also save Alternate Sources
+•	Other Web links: dictionary definitions, Wikipedia
+•	Hyperlinks (for text, images, etc.), demonstrate motivation, reference work (with date of access, Interent Changes without warning)
+•	Opening to Other TABS: Purpose: to keep visitors on website longer and improves most of metrics (bounce rate, conversion, pages visited, etc.)
+•	[Option] Write a paragraph to Stacia (about her), and then ask her to get some writing back through the semester that I might use in websites
+
+Steps in Essay Project
+•	Review Unordered and Ordered List Outlines to create essay
+•	Create unformatted .txt doc (geometry of text piece)
+•	Add breaks, bold, italics, headings (especially title)
+•	Add metadata: references, links, styles
+•	Copy over .txt text, formatted as above
+•	Add Other Tags
+
+Essay Project
+•	Review Essays that work
+•	Review Structure of “20 Questions” Essay (Read it with everyone)
+Especially first paragraph and then the structure within the context of an application
+•	Describe ideas about a great webpage for this
+(Descriptions, References, Images, Videos, Audio, etc. to assist comprehension)
+•	Also see Essay_Examples.pdf as an option
+•	Start to build a project folder
+•	Give 10 minutes to work on a piece of text
+Images for words and phrases (URLs and Alternatives), opening in a new tab (navigation) 
+Words: Bolded and Italics
+Hyperlinks like dictionary definitions
+
+
+
+Optional – Paragraph about Mr. Mercer
+•	Gun Clan (War or Peace)
+•	Award winning teacher (I hope you will all agree)
+
