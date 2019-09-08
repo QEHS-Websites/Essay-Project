@@ -75,5 +75,29 @@ Checklist for Lists, optional in this project, see <a href="https://github.com/M
 
 # Ideas to Include
 
+**Purpose of this Project**
+- take a writing project (paragraph or essay)
+- create an interactive website based on a simple HTML and CSS, see summary list (<a href="">Click Here for Summary list</a>)
+- illustrate webpage features such as
+  - text additions and HTML tagged formatting, <a href="">jump to these notes</a>
+  - linked web documents (other webpages), <a href="">jump to these notes</a>
+  - word definitions, <a href="">jump to these notes</a>
+  - images, <a href="">jump to these notes</a>
+  - videos, <a href="">jump to these notes</a>
+- also use Browser based Navigation with "open a new tab" in some places but not others, as a planning item
+
+#### "Writing Project" Steps
+1. Brainstorm and Record Expectations
+2. Create a Repository for this Project
+   - ReadMe.md File, including To Do List
+   - index.html with `<head>`, `<body>`, & `<footer>` additions
+3.
+
+Ideas to Include
+- English Reading Exemplars
+- HTML & CSS Summary Lists
+- See Individual Lessons for - take a writing project (paragraph or essay)
+- illustrate webpage features such as text additions, word definitions, images, videos, and linked web documents (other webpages)
+- also use Browser based Navigation with "open a new tab" in some places but not others
 
 ---
