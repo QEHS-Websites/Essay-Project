@@ -90,7 +90,15 @@ Checklist for Lists, optional in this project, see <a href="">Summary</a>, or <a
 2. Create a Repository for this Project
    - ReadMe.md File, including To Do List
    - index.html with `<head>`, `<body>`, & `<footer>` additions
-3.
+   - Folders with ReadMe.txt Files
+   - EssayText.txt (using Notepad to delete all formatting from webpages and other programs)
+3. Using HTML Boilerplate (Header, Nav, Aside, Footer, and Section-Articles)
+   - Header: title?
+   - Nav: blank?
+   - Aside: List to summarize essay in bullets (like outline or abstract)
+   - Section-Articles: Section Headers and paragraphs?
+   - Footer: Author information, quote
+4. Add other HTML Tags creating interactive essay experience
 
 Ideas to Include
 - English Reading Exemplars
