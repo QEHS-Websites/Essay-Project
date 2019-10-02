@@ -1,49 +1,63 @@
 # Essay Project
 Exemplar and Lessons
 
+Note: Chosen Readings are Grade 10 Reading Level Equivalent from the English Department
+
 ---
 
 **UNDER CONSTRUCTION**
 - Add hyperlinks as needed
 - Students must have personal essay or use Mr. Mercer Example
+
 ---
 
 # Rubric and Expectations
 Checklist: Beginning a Project
-- See <a href="">Creating Single Webpage</a>
-- See <a href="">Introductory Boilerplate</a>
+- See <a href="https://github.com/MercersKitchen/Webpages-Sites/tree/master/Template%20Single%20Page%20Webpage">
+Creating Single Webpage</a>
+- See <a href="https://github.com/MercersKitchen/Webpages-Sites/tree/master/Boilerplate%20Introductory">
+Introductory Boilerplate</a>
 - [] Project Folder (GitHub Repository)
 - [] Files: index.html, ReadMe.md
 - [] Folders: Images, Videos, Media
 
-Checklist: HTML Boilerplate
+Checklist: HTML Boilerplate in HEAD
 - [] Basic Boilerplate inside ATOM.IO or other WYSIWYG
 - This checklist happens between the ```<head></head>``` tags
 - [] Title for table
-  - Optional: ICON for TAB
+- Optional: ICON for TAB
 - [] Metadata: author, description, keywords, viewport
-- [] HTML Layout, used as needed
-- [] Footer: copyright symbol, signature inside p-tag
 
-Checklist: Adding Text from Personal Source
-- Note: Chosen Readings are Grade 10 Reading Level Equivalent from the English Department
+Checklist: HTML Boilerplate in BODY
 - This checklist happens between the ```<body></body>``` tags
-- [] Copy Title to ```<header>```, Change to appropriate h1-h6 tag
+- [] HTML Layout, all present, used or unused (empty if unused)
+  - header
+  - nav
+  - aside
+  - section-article
 - For Each Section of the Essay, copy (when appropriate)
+  - Note: find a pattern in the essay you are using and repeat that pattern with section-article
+    - For Example, in 20 Questions, <a href="https://apply.jhu.edu/essays-that-worked-2021/">here</a>
+    - Section: question-answer-detailedParagraph
   - [] Section Header to ```<section>```, changing h1-h6 tag to appropriate size
   - [] Paragraph to ```<article><p>```
   - [] Repeat these as necessary
-- [] Delete all other unnecessary or unused tags
+  - Must answer how to adding text from a Source
+
+Checklist: HTML Boilerplate in FOOTER
+- [] Footer: copyright symbol, signature inside p-tag
 
 Final Review of Starter Essay Project index.html
 - [] White Space: all indents are autoformatted by WYSIWYG or three-spaces (standard from W3 Consortium)
 
 Checklist: adding basic inline HTML tags, Click Here for <a href="">Summary</a>, or <a href="">full HTML examples</a>
 - Minimum HTML Text formating tags to use, see Summary DOC to see more or research to find more
+- H1-H6 and p-tags
 - [] Bolding: ```<strong></strong>``` (or ```<b></b>```)
 - [] Italics: ```<em></em>``` (or ```<i></i>```)
 - [] Superscript: ```<sup></sup>```
 - [] Subscript: ```<sub></sub>```
+- [] Various other auto formatting HTML Tags utilizing default browser settings
 
 Checklist: adding HTML Hyperlinks, Click Here for <a href="">Summary</a>, or <a href="">full HTML examples</a>
 - [] using anchors, minimum code ```<a href=""></a>```
