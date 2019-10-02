@@ -31,10 +31,10 @@ Checklist: HTML Boilerplate in HEAD
 Checklist: HTML Boilerplate in BODY
 - This checklist happens between the ```<body></body>``` tags
 - [] HTML Layout, all present, used or unused (empty if unused)
-  - header
-  - nav
-  - aside
-  - section-article
+  - header (i.e. title)
+  - nav (i.e. empty since single page)
+  - aside (i.e. essay outline, possible space to use unordered or ordered list)
+  - section-article (i.e. possible space to place pattern of section titles and paragraphs)
 - For Each Section of the Essay, copy (when appropriate)
   - Note: find a pattern in the essay you are using and repeat that pattern with section-article
     - For Example, in 20 Questions, <a href="https://apply.jhu.edu/essays-that-worked-2021/">here</a>
